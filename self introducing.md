@@ -1,6 +1,4 @@
-# Release 1.11.0
-
-## Major Features and Improvements
+# 오승영
 
 * Nvidia GPU:
   * Prebuilt binaries are now (as of TensorFlow 1.11) built against cuDNN 7.2 and TensorRT 4. See updated install guides: [Installing TensorFlow on Ubuntu](https://www.tensorflow.org/install/install_linux#tensorflow_gpu_support)
